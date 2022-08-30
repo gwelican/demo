@@ -1,0 +1,11 @@
+#"ruleholder": {
+#  "rules": [
+#    {
+#      "currency": [
+#        "USD",
+#        "AUD",
+#        "CAD"
+#      ]
+#    }
+#  ]
+#}

@@ -1,0 +1,12 @@
+{
+  "data": "hi",
+  "rules": [
+    {
+      "currency": [
+        "USD",
+        "AUD",
+        "CAD"
+      ]
+    }
+  ]
+}
